@@ -1,0 +1,4 @@
+Create a report from the given data set
+
+1- Implement 15 techniques of dax used in the course for building this report
+2- Implement 5 functions of Date time

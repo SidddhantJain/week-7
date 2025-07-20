@@ -1,0 +1,7 @@
+Upload this data on SQL Server and then fetch this data in paginated report by using SQL Server as Data Source
+
+- Create a pie visual
+- Create a calculated field named New Product Price (Logic for calculation is "Product Price * 5")
+- Create a table visual and show Brank Name, Customer Name and New Product price (Calculated Field)
+- Create two parameters named Survey Type and Year
+
